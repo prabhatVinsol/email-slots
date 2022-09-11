@@ -4,6 +4,10 @@ import ReceiverComponent from 'Component/ReceiverComponent'
 import SenderComponent from './SenderComponent'
 
 export class EmailBody extends Component {
+  static defaultProps = {
+    receiver : 'Sir',
+    sender : 'Anonymous'
+  }
   render(props) {
     return (
       <div>
