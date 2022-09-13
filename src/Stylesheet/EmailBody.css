@@ -1,0 +1,16 @@
+.ParentDiv {
+    width: 80%;
+    height: auto;
+    background-color: rgb(240, 240, 240);
+    padding: 20px;
+    margin-left: 20px;
+    margin-right: 20px;
+    margin-top: 40px;
+    border: 2px;
+    border-color: rgb(204, 204, 204);
+    border-radius: 5px;
+    color: rgb(173, 100, 206);
+}
+.Content {
+    margin-top: 25px;
+}
